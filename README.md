@@ -1,26 +1,21 @@
 <div align="center">
 
-<pre>
-<!-- Animated 3D Terminal Art for "KASHEFI" -->
-<a href="https://git.io/typer">
-  <img src="https://img.shields.io/badge/terminal-kashefi-58A6FF?style=for-the-badge" alt="KASHEFI banner" height="24px"/>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=20&pause=200&color=58A6FF&center=true&vCenter=true&width=550&height=180&lines=
-  ____  ___.________    _________ .___..____   _______________.___________...;
-  |    |/   |\______ \  \_   ___ \|   ||    |  \_   _____/\_   _____/|__\.\..;
-  |      <   |    |  \ /    \  \/|   ||    |   |    __)_  |    __)  |  |.\;
-  |    |  \  |    `   \\     \___ |   ||    |___|        \ |     \   |  |.\;
-  |____|__ \/_______  / \______  /|___||_______ /_______  / \___  /   |__|.\;
-  . . . . \/ . . . . \/ . . . . \/ . . . . . . \/ . . . . \/ . . . \/ . . . .\;
-  ;
-  .___. ___.    ____    __________. ___. ___. __________. ___. ___.  .___. . . . .;
-  |   |/   /   /    \  /   ______/|   |/   /|   ______/|   |/   / |   | . . .;
-  |   '   /   /  /\  \ \_____  \  |   '   / |   ___/   |   '   /  |   | . . .;
-  |   .  <   /  '--'  \/        \ |   .  <  |   |___   |   .  <   |   | . . .;
-  |___|\__\ /__/    \__\_______ / |___|\__\ |_______/  |___|\__\  |___| . . . "/>
-</a>
-</pre>
+```text
+kaschefi@github: ~$ ./wordmark.sh --name
 
+``SS     ```SS   ``SSSSSSSS   ```SS     ``SS   ``SSSSSSSS   `SSS      `SS  `SS       `SS
+-=SS       --=SS   -+++++++++S   `-=SS     `-SS   `+++++++++S   ``SSS     ``SS  ``SS       ``SS     ``Sssssss      `sssssssssss
+-=SSSSS ```SSSSS ````SS       ``SS --=SS     --SS  ``S*++++++++ ``SS --SSSSS  ``S--SS   --SSSSS  ``S--SS  ``S+++++++++s`ss   -ss+++++++++s`ss
+-=S++```*++--=SS ---SS       --SS --=SSSSSSSSS--SS  --SS       --SS --S+++S`S-+++-SS  --S+++S`S-+++-SS  --SS        -ss   -ss        -ss
+-=SS  -+++S  --=SS ---SS       --SS --=+++++++++++SSS  --SS       --SS --SSS  `+S  --SS   --SS  `-+S  --SS  --SS        -ss   -ss        -ss
+-=SS        --=SS ---SS       --SS --=SS     --SS  --SSSSSSSSSS-SSS --SSS  +++   --SS   --SS  ++    --SS  --SSSSSSSSSs-ss   -ss        -ss
+-=SS        --=SS ---SS       --SS --=SS     --SS  --S+++++++++-SS  --SSS        --SS   --SS        --SS  --S+++++++++-ss   -ss        -ss
+-=SS        --=SS ---SS       --SS --=SS     --SS  --SS       --SS  --SSS        --SS   --SS        --SS  --SS        -ss   -ss        -ss
+-=SS        --=SS --+*S       --+S --=SS     --SS  --SS       --SS  --SSS        --SS   --SS        --SS  --SS        -Ss   -ss        -ss
+-=SSS       --=SS *++``SSSSSSS*++  --=SS     --SS  --SS       --SS  --SSS        --SS   --SS        --SS  --SS        -SS   -sssssssssss-+s
+-++SS       -++*S    -++++++++S    -+++S     -++S  -++S       -++S  -++SS        -++S   -++S        -++S  -++S        -+S   -+++++++++++s
+                                                                             ++     ++          ++    ++          ++    +++++++++++
+````
 **Mohammad Kashefirad** — Software & AI Engineer
 
 <a href="https://readme-typing-svg.demolab.com">
